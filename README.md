@@ -44,7 +44,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -80,7 +81,7 @@
 
 ## Github Stats 
 
-### <div align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eurydice0&theme=dracula&hide_border=true)](https://git.io/streak-stats)</div>
+### <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GODZ217&show_icons=true&count_private=true&hide_border=true" align="left" />  </div>
  
 <br/>  
 
@@ -92,7 +93,7 @@
 
 <br/>  
 
-<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ksv6iugd4a63vuyxgv4dpz2bza&cover_image=false&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ksv6iugd4a63vuyxgv4dpz2bza&redirect=true)" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ksv6iugd4a63vuyxgv4dpz2bza&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/> 
 
